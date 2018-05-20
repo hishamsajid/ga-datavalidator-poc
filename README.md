@@ -24,7 +24,7 @@ https://support.google.com/cloud/answer/6158853
 2. Create 'OAuth client ID' Credentials from the Credentials section of the Google API console,
    in the Application type choose 'Other'
 
-3. Download the clinet_secret JSON file of the created credential
+3. Download the client_secret JSON file of the created credential
 
 4. Clone the code to your local repository
 
