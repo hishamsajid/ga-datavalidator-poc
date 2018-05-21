@@ -1,6 +1,6 @@
 # ga-datavalidator-poc
 
-The Project is an attempt to automate the GA Analytics Audit at Marketlytics using Google Core Reporting and Management APIs. This is only a proof of concpept for a larger, more complex web-based app explained and linked in this article. http://marketlytics.com/blog/google-analytics-audit-tool
+The Project is an attempt to automate the GA Analytics Audit at Marketlytics using Google Core Reporting and Management APIs. This is only a proof of concpept for a larger, more complex web-based app explained and linked in this article: http://marketlytics.com/blog/google-analytics-audit-tool
 
 ## Getting Started
 
